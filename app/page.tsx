@@ -1,6 +1,9 @@
 import Header from "@/Components/Header";
 import Hero from "@/Components/Hero";
 import BrandsBanner from "@/Components/home/BrandsBanner";
+import OurOffer from "@/Components/home/OurOffer";
+import Outreach from "@/Components/home/Outreach/Outreach";
+import Portfolio from "@/Components/home/Portfolio/Portfolio";
 
 export default function Home() {
   return (
@@ -16,6 +19,11 @@ export default function Home() {
       </div>
       <main>
         <BrandsBanner />
+        <div className="bg-linear-to-b from-white from-50% to-gray-100 py-32">
+          <OurOffer />
+          <Portfolio />
+        </div>
+        <Outreach />
       </main>
     </div>
   );

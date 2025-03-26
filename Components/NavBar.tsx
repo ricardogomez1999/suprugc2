@@ -1,39 +1,40 @@
+import Link from "next/link";
 import React from "react";
 
 export default function NavBar() {
   return (
     <nav className="relative  lg:flex">
       <div className=" relative flex group/item">
-        <a
-          href="#"
+        <Link
+          href="/pricing"
           className="flex items-center px-4 py-3 text-base font-bold text-white bg-blend-multiply data-hover:bg-black/[2.5%]"
         >
           Pricing
-        </a>
+        </Link>
       </div>
       <div className=" relative flex group/item">
-        <a
-          href="#"
+        <Link
+          href="/company"
           className="flex items-center px-4 py-3 text-base font-bold text-white bg-blend-multiply data-hover:bg-black/[2.5%]"
         >
           Company
-        </a>
+        </Link>
       </div>
       <div className=" relative flex group/item">
-        <a
-          href="#"
+        <Link
+          href="/blog"
           className="flex items-center px-4 py-3 text-base font-bold text-white bg-blend-multiply data-hover:bg-black/[2.5%]"
         >
           Blog
-        </a>
+        </Link>
       </div>
       <div className=" relative flex group/item">
-        <a
+        <Link
           href="#"
           className="flex items-center px-4 py-3 text-base font-bold text-white bg-blend-multiply data-hover:bg-black/[2.5%]"
         >
           Login
-        </a>
+        </Link>
       </div>
     </nav>
   );
