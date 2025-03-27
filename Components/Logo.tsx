@@ -5,7 +5,7 @@ export default function Logo() {
   return (
     <div className="py-3 group/item relative">
       <Link href="/" title="Home">
-        Logo
+        <img src="/logo.svg" alt="logo" className="w-24" />
       </Link>
     </div>
   );
