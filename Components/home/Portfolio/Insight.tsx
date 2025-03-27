@@ -9,15 +9,15 @@ export default function Insight() {
       </div>
       <div className="relative p-10">
         <h3 className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400">
-          Insight
+          AI-Powered Automation
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Get perfect clarity
+          Eliminate repetitive tasks
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          Radiant uses social engineering to build a detailed financial picture
-          of your leads. Know their budget, compensation package, social
-          security number, and more.
+          Our AI-powered automation tools analyze workflows, detect
+          inefficiencies, and optimize operations—giving you full visibility and
+          control.
         </p>
       </div>
     </div>

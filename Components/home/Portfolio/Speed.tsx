@@ -11,11 +11,11 @@ export default function Speed() {
           Speed
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Built for power users
+          Built for Power Users.
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          It’s never been faster to cold email your entire contact list using
-          our streamlined keyboard shortcuts.
+          Automate complex workflows with ease using our intuitive no-code and
+          low-code solutions—saving hours of manual work every week.
         </p>
       </div>
     </div>

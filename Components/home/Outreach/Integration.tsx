@@ -16,14 +16,15 @@ export default function Integration() {
           dark-data="true"
           className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400"
         >
-          Integrations
+          Seamless Integrations
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Meet leads where they are
+          Connect with Your Customers Everywhere.
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          With thousands of integrations, no one will be able to escape your
-          cold outreach.
+          With Zapier, Make, and custom API integrations, automate outreach
+          across multiple platforms—email, chat, and CRM—so you never miss an
+          opportunity.
         </p>
       </div>
     </div>

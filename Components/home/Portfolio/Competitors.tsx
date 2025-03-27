@@ -9,14 +9,15 @@ export default function Competitors() {
       </div>
       <div className="relative p-10">
         <h3 className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400">
-          Analysis
+          Stay Ahead of the Competition.
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Undercut your competitors
+          Intelligent decision-making
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          With our advanced data mining, you’ll know which companies your leads
-          are talking to and exactly how much they’re being charged.
+          With smart integrations using Zapier, Make, and custom APIs, automate
+          lead tracking, customer engagement, and business insights in
+          real-time.
         </p>
       </div>
     </div>

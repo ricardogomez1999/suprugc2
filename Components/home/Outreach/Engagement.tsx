@@ -15,15 +15,14 @@ export default function Engagement() {
           data-dark="true"
           className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400"
         >
-          Engagement
+          Build Your Brand & Authority
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Become a thought leader
+          Position Yourself as an Industry Leader.
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          RadiantAI automatically writes LinkedIn posts that relate current
-          events to B2B sales, helping you build a reputation as a thought
-          leader.
+          Automate content creation and social media engagement with AI-driven
+          posts, helping you establish credibility and grow your audience.
         </p>
       </div>
     </div>

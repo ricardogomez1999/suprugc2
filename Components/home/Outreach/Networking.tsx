@@ -18,11 +18,12 @@ export default function Networking() {
           Networking
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Sell at the speed of light
+          Respond at the Speed of AI.
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          Our RadiantAI chat assistants analyze the sentiment of your
-          conversations in real time, ensuring you're always one step ahead.
+          Our smart chatbots and automated workflows analyze customer
+          interactions in real time, ensuring fast, accurate responses and
+          improved engagement.
         </p>
       </div>
     </div>

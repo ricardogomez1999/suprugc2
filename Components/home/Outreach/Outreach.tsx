@@ -13,13 +13,13 @@ export default function Outreach() {
             data-dark="true"
             className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400"
           >
-            Outreach
+            Outreach & Engagement
           </h2>
           <h3
             data-dark="true"
             className="mt-2 max-w-3xl text-4xl font-medium tracking-tighter text-pretty text-gray-950 data-dark:text-white sm:text-6xl"
           >
-            Customer outreach has never been easier.
+            Automated Customer Engagement Made Easy.
           </h3>
           <div className="mt-10 grid grid-cols-1 gap-4 sm:mt-16 lg:grid-cols-6 lg:grid-rows-2">
             <Networking />

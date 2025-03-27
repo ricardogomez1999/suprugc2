@@ -7,7 +7,7 @@ export default function NavBar() {
       <div className=" relative flex group/item">
         <Link
           href="/pricing"
-          className="flex items-center px-4 py-3 text-base font-bold text-white bg-blend-multiply data-hover:bg-black/[2.5%]"
+          className="flex items-center px-4 py-3 text-base font-bold text-gray-900 bg-blend-multiply data-hover:bg-black/[2.5%]"
         >
           Pricing
         </Link>
@@ -15,7 +15,7 @@ export default function NavBar() {
       <div className=" relative flex group/item">
         <Link
           href="/company"
-          className="flex items-center px-4 py-3 text-base font-bold text-white bg-blend-multiply data-hover:bg-black/[2.5%]"
+          className="flex items-center px-4 py-3 text-base font-bold text-gray-900 bg-blend-multiply data-hover:bg-black/[2.5%]"
         >
           Company
         </Link>
@@ -23,7 +23,7 @@ export default function NavBar() {
       <div className=" relative flex group/item">
         <Link
           href="/blog"
-          className="flex items-center px-4 py-3 text-base font-bold text-white bg-blend-multiply data-hover:bg-black/[2.5%]"
+          className="flex items-center px-4 py-3 text-base font-bold text-gray-900 bg-blend-multiply data-hover:bg-black/[2.5%]"
         >
           Blog
         </Link>
@@ -31,7 +31,7 @@ export default function NavBar() {
       <div className=" relative flex group/item">
         <Link
           href="#"
-          className="flex items-center px-4 py-3 text-base font-bold text-white bg-blend-multiply data-hover:bg-black/[2.5%]"
+          className="flex items-center px-4 py-3 text-base font-bold text-gray-900 bg-blend-multiply data-hover:bg-black/[2.5%]"
         >
           Login
         </Link>

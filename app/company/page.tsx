@@ -1,7 +1,7 @@
 import Header from "@/Components/Header";
 import React from "react";
 
-export default function layout() {
+export default function page() {
   return (
     <div>
       <div className="px-6 lg:px-8">

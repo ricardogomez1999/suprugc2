@@ -11,14 +11,14 @@ export default function SellGlobal() {
       </div>
       <div className="relative p-10">
         <h3 className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400">
-          Limitless
+          Scalability Without Limits.
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Sell globally
+          Grow Your Business Globally.
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          Radiant helps you sell in locations currently under international
-          embargo.
+          Our AI automation and custom-built websites ensure seamless
+          scaling—whether you’re a startup or an enterprise.
         </p>
       </div>
     </div>
