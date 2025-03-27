@@ -52,7 +52,7 @@ export default function Card({ card, key }: cardProps) {
                     className="size-[0.9375rem] shrink-0 fill-gray-950/25"
                   >
                     <path
-                      clip-rule="evenodd"
+                      clipRule="evenodd"
                       d="M8 0H7v7H0v1h7v7h1V8h7V7H8V0z"
                     ></path>
                   </svg>
@@ -73,7 +73,7 @@ export default function Card({ card, key }: cardProps) {
                     className="size-[0.9375rem] shrink-0 fill-gray-950/25"
                   >
                     <path
-                      clip-rule="evenodd"
+                      clipRule="evenodd"
                       d="M8 0H7v7H0v1h7v7h1V8h7V7H8V0z"
                     ></path>
                   </svg>
@@ -94,7 +94,7 @@ export default function Card({ card, key }: cardProps) {
                     className="size-[0.9375rem] shrink-0 fill-gray-950/25"
                   >
                     <path
-                      clip-rule="evenodd"
+                      clipRule="evenodd"
                       d="M8 0H7v7H0v1h7v7h1V8h7V7H8V0z"
                     ></path>
                   </svg>
@@ -115,7 +115,7 @@ export default function Card({ card, key }: cardProps) {
                     className="size-[0.9375rem] shrink-0 fill-gray-950/25"
                   >
                     <path
-                      clip-rule="evenodd"
+                      clipRule="evenodd"
                       d="M8 0H7v7H0v1h7v7h1V8h7V7H8V0z"
                     ></path>
                   </svg>
@@ -137,7 +137,7 @@ export default function Card({ card, key }: cardProps) {
                     className="size-[0.9375rem] shrink-0 fill-gray-950/25"
                   >
                     <path
-                      clip-rule="evenodd"
+                      clipRule="evenodd"
                       d="M8 0H7v7H0v1h7v7h1V8h7V7H8V0z"
                     ></path>
                   </svg>

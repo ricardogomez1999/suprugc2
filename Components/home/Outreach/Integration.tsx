@@ -19,12 +19,11 @@ export default function Integration() {
           Seamless Integrations
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Connect with Your Customers Everywhere.
+          Connect with your Customers Everywhere.
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
           With Zapier, Make, and custom API integrations, automate outreach
-          across multiple platforms—email, chat, and CRM—so you never miss an
-          opportunity.
+          across multiple platforms.
         </p>
       </div>
     </div>
