@@ -6,7 +6,7 @@ import Engagement from "./Engagement";
 
 export default function Outreach() {
   return (
-    <div className="mx-2 mt-2 rounded-4xl bg-gray-900 py-32">
+    <div className="mx-2 mt-2 rounded-4xl bg-[#284F77] py-32">
       <div className="px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:max-w-7xl">
           <h2

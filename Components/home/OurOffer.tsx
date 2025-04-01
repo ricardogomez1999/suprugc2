@@ -10,12 +10,12 @@ export default function OurOffer() {
           </h2>
           <div
             className="mt-16 h-[36rem] sm:h-auto sm:w-[76rem] relative aspect-[var(--width)/var(--height)] [--radius:var(--radius-xl)]"
-            style={{ width: 1216, height: 768 }}
+            style={{ width: 1216, height: 790 }}
           >
             <div className="absolute -inset-[var(--padding)] rounded-[calc(var(--radius)+var(--padding))] ring-1 shadow-xs ring-black/5 [--padding:--spacing(2)]"></div>
             <img
-              src="https://res.cloudinary.com/dnrdf85ss/image/upload/v1743020831/Screenshot_2025-03-26_at_2.26.08_p.m._vcx0oh.png"
-              className="h-full rounded-[var(--radius)] ring-1 shadow-2xl ring-black/10"
+              src="/offer.svg"
+              className=" bg-cover rounded-[var(--radius)] ring-1 shadow-2xl ring-black/10"
               alt="image offer"
             />
           </div>

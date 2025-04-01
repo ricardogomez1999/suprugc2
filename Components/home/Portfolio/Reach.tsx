@@ -1,13 +1,12 @@
+import Image from "next/image";
 import React from "react";
 
 export default function Reach() {
   return (
     <div className="lg:col-span-2 group relative flex flex-col overflow-hidden rounded-lg bg-white ring-1 shadow-xs ring-black/5 data-dark:bg-gray-800 data-dark:ring-white/15">
       <div className="relative h-80 shrink-0">
-        <div
-          aria-hidden="true"
-          className="relative h-full overflow-hidden"
-        ></div>
+        <div className="h-80 bg-[url(/apps.png)] bg-cover bg-center bg-no-repeat"></div>
+        <div className="absolute inset-0  group-data-dark:from-gray-800 group-data-dark:from-[-25%]"></div>
       </div>
       <div className="relative p-10">
         <h3 className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400">
