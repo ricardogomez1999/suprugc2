@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 export default function Engagement() {
@@ -7,8 +8,16 @@ export default function Engagement() {
       className="max-lg:rounded-b-4xl lg:col-span-4 lg:rounded-br-4xl group relative flex flex-col overflow-hidden rounded-lg bg-white ring-1 shadow-xs ring-black/5 data-dark:bg-gray-800 data-dark:ring-white/15"
     >
       <div className="relative h-80 shrink-0">
-        <div className="h-80 bg-[url(/engagement.png)] bg-[size:851px_344px] bg-no-repeat"></div>
-        <div className='class="absolute inset-0 bg-linear-to-b from-white to-50% group-data-dark:from-gray-800 group-data-dark:from-[-25%]"'></div>
+        <div aria-hidden="true" className="relative h-full overflow-hidden">
+          <div className="absolute inset-0 top-8 z-10 flex items-center justify-center">
+            <Image
+              src={"/engagement.png"}
+              alt="integration"
+              width={500}
+              height={200}
+            />
+          </div>
+        </div>
       </div>
       <div className="relative p-10">
         <h3
