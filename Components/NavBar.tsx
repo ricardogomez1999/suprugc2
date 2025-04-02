@@ -3,7 +3,7 @@ import React from "react";
 
 export default function NavBar() {
   return (
-    <nav className="relative  lg:flex">
+    <nav className="relative  lg:flex hidden">
       <div className=" relative flex group/item">
         <Link
           href="/pricing"

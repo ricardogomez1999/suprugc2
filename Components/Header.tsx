@@ -1,7 +1,8 @@
-import React from "react";
+"use client";
 import Separator from "./Separator";
 import Logo from "./Logo";
 import NavBar from "./NavBar";
+import Hamburguer from "./Hamburguer";
 
 export default function Header() {
   return (
@@ -22,6 +23,7 @@ export default function Header() {
           </div>
 
           <NavBar />
+          <Hamburguer />
         </div>
       </div>
     </header>
