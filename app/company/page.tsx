@@ -1,4 +1,7 @@
+import SectionHero from "@/Components/company/SectionHero";
+import Team from "@/Components/company/Team";
 import Header from "@/Components/Header";
+import Title from "@/Components/pricing/Title";
 import React from "react";
 
 export default function page() {
@@ -10,6 +13,13 @@ export default function page() {
         </div>
         <div className="mx-auto max-w-2xl lg:max-w-7xl">
           <Header />
+        </div>
+      </div>
+      <div className="mx-auto max-w-2xl lg:max-w-7xl">
+        <div className="mt-16 px-6 lg:px-8">
+          <Title />
+          <SectionHero />
+          <Team />
         </div>
       </div>
     </div>
