@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 export default function OurOffer() {
@@ -13,10 +14,12 @@ export default function OurOffer() {
             style={{ width: 1216, height: 790 }}
           >
             <div className="absolute -inset-[var(--padding)] rounded-[calc(var(--radius)+var(--padding))] ring-1 shadow-xs ring-black/5 [--padding:--spacing(2)]"></div>
-            <img
+            <Image
               src="/offer.svg"
               className=" bg-cover rounded-[var(--radius)] ring-1 shadow-2xl ring-black/10"
               alt="image offer"
+              width={100}
+              height={100}
             />
           </div>
         </div>

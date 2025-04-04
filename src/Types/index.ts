@@ -3,7 +3,7 @@ export type PlanFeature = {
   included: boolean;
 };
 
-export type Card = {
+export type CardType = {
   title: string;
   subtitle: string;
   price: number;
