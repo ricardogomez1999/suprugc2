@@ -18,8 +18,8 @@ export default function OurOffer() {
               src="/offer.svg"
               className=" bg-cover rounded-[var(--radius)] ring-1 shadow-2xl ring-black/10"
               alt="image offer"
-              width={100}
-              height={100}
+              width={1000}
+              height={1000}
             />
           </div>
         </div>
