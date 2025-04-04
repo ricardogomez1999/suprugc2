@@ -38,7 +38,7 @@ export default function Hamburguer() {
                       Company
                     </a>
                   </MenuItem>
-                  <MenuItem>
+                  {/* <MenuItem>
                     <a
                       className="block data-[focus]:bg-[#284F77] p-3 rounded"
                       href="/blog"
@@ -53,7 +53,7 @@ export default function Hamburguer() {
                     >
                       Login
                     </a>
-                  </MenuItem>
+                  </MenuItem> */}
                 </MenuItems>
               )}
             </AnimatePresence>
