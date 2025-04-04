@@ -20,7 +20,7 @@ export default function NavBar() {
           Company
         </Link>
       </div>
-      <div className=" relative flex group/item">
+      {/* <div className=" relative flex group/item">
         <Link
           href="/blog"
           className="flex items-center px-4 py-3 text-base font-bold text-gray-900 bg-blend-multiply data-hover:bg-black/[2.5%]"
@@ -35,7 +35,7 @@ export default function NavBar() {
         >
           Login
         </Link>
-      </div>
+      </div> */}
     </nav>
   );
 }

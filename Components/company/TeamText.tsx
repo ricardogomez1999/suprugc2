@@ -4,19 +4,16 @@ export default function TeamText() {
   return (
     <div className="max-w-lg">
       <p className="text-sm/6 text-gray-600">
-        Years ago, while working as sales associates at rival companies, Thomas,
-        Ben, and Natalie were discussing a big client they had all been
-        competing for. Joking about seeing the terms of each other’s offers,
-        they had an idea: what if they shared data to win deals and split the
-        commission behind their companies’ backs? It turned out to be an
-        incredible success, and that idea became the kernel for Radiant.
+        What started as a one-person mission is quickly evolving into something
+        bigger. SupruGC is growing into a collective of builders, thinkers, and
+        problem-solvers who believe in a more intelligent and accessible web.
+        We’re building the kind of company we’d want to work with—transparent,
+        reliable, and relentlessly focused on delivering real value.
       </p>
       <p className="mt-8 text-sm/6 text-gray-600">
-        Today, Radiant transforms revenue organizations by harnessing illegally
-        acquired customer and competitor data, using it to provide extraordinary
-        leverage. More than 30,000 companies rely on Radiant to undercut their
-        competitors and extort their customers, all through a single integrated
-        platform.
+        Whether you’re here for hosting, automation, or custom solutions, know
+        this: you’re not just hiring a service. You’re partnering with a growing
+        team committed to helping your business thrive.
       </p>
       <div className="mt-6">
         <a

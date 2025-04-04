@@ -7,8 +7,9 @@ export default function Title() {
         Pricing that grows with your team size.
       </h1>
       <p className="mt-6 max-w-3xl text-2xl font-medium text-gray-500">
-        Companies all over the world have closed millions of deals with Radiant.
-        Sign up today and start selling smarter.
+        Whether you’re a startup or scaling enterprise, SupruGC offers flexible
+        pricing that grows with your needs. From hosting to automation, we help
+        you build, launch, and scale smarter—without the bloat.
       </p>
     </div>
   );
