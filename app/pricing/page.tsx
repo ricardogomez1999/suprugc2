@@ -25,10 +25,12 @@ export default function layout() {
         </div>
       </div>
 
-      <Title />
-      <PricingCards />
-      <Faqs />
-      <PricingBanner />
+      <div className="mt-16  mb-20 px-6 lg:px-8">
+        <Title />
+        <PricingCards />
+        <Faqs />
+        <PricingBanner />
+      </div>
     </div>
   );
 }

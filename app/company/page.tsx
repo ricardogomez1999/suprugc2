@@ -1,7 +1,8 @@
 import SectionHero from "@/Components/company/SectionHero";
 import Team from "@/Components/company/Team";
+import Title from "@/Components/company/Title";
 import Header from "@/Components/Header";
-import Title from "@/Components/pricing/Title";
+
 import React from "react";
 
 export default function page() {
