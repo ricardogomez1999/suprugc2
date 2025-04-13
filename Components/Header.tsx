@@ -3,8 +3,10 @@ import Separator from "./Separator";
 import Logo from "./Logo";
 import NavBar from "./NavBar";
 import Hamburguer from "./Hamburguer";
+import { useTranslations } from "next-intl";
 
 export default function Header() {
+  const t = useTranslations("Header");
   return (
     <header className=" pt-12 sm:pt-16">
       <div>
@@ -17,7 +19,7 @@ export default function Header() {
                 href=""
                 className="flex items-center gap-1 rounded-full bg-blue-950/35 px-3 py-0.5 text-sm/6 font-medium text-white data-hover:bg-blue-950/30"
               >
-                Please click here for a quick quote
+                {t("QuickQuote")}
               </a>
             </div>
           </div>

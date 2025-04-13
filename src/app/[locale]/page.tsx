@@ -10,13 +10,13 @@ import Outreach from "@/Components/home/Outreach/Outreach";
 import Portfolio from "@/Components/home/Portfolio/Portfolio";
 
 export default function Home() {
-  const t = useTranslations();
+  const t = useTranslations("Hero");
 
   return (
     <>
       <Head>
-        <title>{t("HomeTitle")}</title>
-        <meta name="HomeDescription" content={t("HomeDescription")} />
+        <title>{t("HeroTitle")}</title>
+        <meta name="HeroDescription" content={t("HeroDescription")} />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <div className="overflow-hidden bg-white">

@@ -1,14 +1,108 @@
 {
-  "HomeTitle": "Automatización y Transformación Digital",
-  "HomeDescription": "Optimiza tu negocio con IA, automatización y estrategias digitales diseñadas para crecer.",
-  "HomeCta": "Descubre Nuestros Servicios",
-
-  "AboutTitle": "Sobre SupruGC",
-  "AboutDescription": "Somos una agencia de transformación digital que ayuda a las empresas a crecer mediante automatización, IA e integraciones inteligentes.",
-
-  "PricingTitle": "Planes de Precios",
-  "PricingDescription": "Elige el plan adecuado para las necesidades de tu negocio. Desde startups hasta empresas consolidadas.",
-
-  "BlogTitle": "Ideas y Consejos sobre Automatización",
-  "BlogDescription": "Descubre artículos, tutoriales y estudios de caso sobre IA, automatización y transformación digital."
+  "Header": {
+    "QuickQuote": "Haz clic aquí para una cotización rápida",
+    "Login": "Iniciar sesión",
+    "JoinUs": "Únete a nosotros",
+    "Blog": "Blog",
+    "Pricing": "Precios",
+    "Company": "Nosotros",
+    "Product": "Producto",
+    "Support": "Soporte"
+  },
+  "Hero": {
+    "HeroCTA": "¿Listo para comenzar?",
+    "StartFreeTrial": "Comienza tu prueba gratuita hoy.",
+    "GetStarted": "Comenzar",
+    "SeePricing": "Ver precios",
+    "HeroTitle": "Automatización e integración de IA",
+    "HeroDescription": "Optimice su negocio con estrategias de inteligencia artificial, automatización y transformación digital."
+  },
+  "Footer": {
+    "FooterCTA": "Listo para comenzar?",
+    "Cheat": "Obtén los trucos para automatizar y sacar lo mejor de tu equipo.",
+    "StartFreeTrial": "Comienza tu prueba gratis hoy",
+    "GetStarted": "Empieza ahora",
+    "HelpCenter": "Centro de ayuda",
+    "Careers": "Carreras",
+    "Community": "Comunidad",
+    "Contact": "Contacto",
+    "LegalPrivacy": "Política de privacidad",
+    "LegalTerms": "Términos del servicio",
+    "FAQ": "Preguntas frecuentes",
+    "YourQuestions": "Tus preguntas respondidas.",
+    "CurrencyUSD": "USD",
+    "PricePerMonth": "por mes",
+    "VPQuote": "VP de ventas, Monots",
+    "Pricing": "Precios",
+    "Company": "Nosotros",
+    "Product": "Producto",
+    "Support": "Soporte",
+    "Analysis": "Analisis"
+  },
+  "About": {
+    "Mission": "En SupruGC, nuestra misión es empoderar a las empresas modernas con soluciones web inteligentes, escalables y sin fricciones...",
+    "TeamBio": "SupruGC fue fundada por alguien con experiencia profunda en transformación digital...",
+    "About": "Lo que comenzó como una misión de una sola persona está evolucionando rápidamente...",
+    "WhyUs": "Ya sea para hosting, automatización o soluciones personalizadas...",
+    "ClientObsessed": "Estamos obsesionados con el éxito de nuestros clientes...",
+    "Discover": "Mira lo que podemos hacer por ti.",
+    "BuiltByOne": "Creado por uno, hecho para muchos.",
+    "TransformOrg": "Estamos en una misión para transformar organizaciones de ingresos..."
+  },
+  "Services": {
+    "WorkflowAutomation": "Automatiza flujos de trabajo complejos fácilmente con soluciones sin código o de bajo código...",
+    "ContentAutomation": "Automatiza la creación de contenido y redes sociales con publicaciones impulsadas por IA...",
+    "SmartChatbots": "Nuestros chatbots inteligentes analizan las interacciones con clientes en tiempo real...",
+    "SmartSchedulingDetails": "Integra herramientas de programación con IA para gestionar reuniones automáticamente...",
+    "OutreachPlatforms": "Con Zapier, Make e integraciones API, automatiza el alcance en múltiples plataformas.",
+    "IntegrateTrack": "Automatiza el seguimiento de clientes y análisis con integraciones inteligentes en tiempo real...",
+    "AIAnalysis": "Nuestras herramientas con IA analizan procesos, detectan ineficiencias...",
+    "EfficientEcosystem": "Conecta miles de apps y plataformas para crear un ecosistema eficiente y automatizado...",
+    "IncludedFeatures": "Integración y optimización de datos",
+    "IntelligentDecisions": "Toma de decisiones inteligentes",
+    "SeamlessIntegrations": "Integraciones sin fricciones"
+  },
+  "Callouts": {
+    "LeadIndustry": "Posiciónate como un líder de la industria.",
+    "ExpandReach": "Expande tu alcance.",
+    "BuildAuthority": "Construye tu marca y autoridad",
+    "EliminateTasks": "Elimina tareas repetitivas",
+    "GrowBusiness": "Haz crecer tu negocio globalmente.",
+    "ScalableWeb": "Escalabilidad sin límites.",
+    "StayAhead": "Mantente por delante de la competencia.",
+    "ResponseSpeed": "Responde a la velocidad de la IA.",
+    "UseAI": "Aprovecha la IA para automatizar tu trabajo diario.",
+    "Slogan": "Ayudando a las empresas a generar ingresos.",
+    "OurServices": "Nuestros servicios"
+  },
+  "Quotes": {
+    "QuoteHeadline": "Precios que crecen con el tamaño de tu equipo.",
+    "Testimonials": "Gracias a nuestra automatización con IA estamos descubriendo oportunidades de negocio...",
+    "TheNumbers": "Las cifras"
+  },
+  "Insight": {
+    "Title": "Automatización impulsada por IA",
+    "Subtitle": "Elimina tareas repetitivas",
+    "Description": "Nuestras herramientas de automatización impulsadas por IA analizan los flujos de trabajo, detectan ineficiencias y optimizan las operaciones, brindándole visibilidad y control totales."
+  },
+  "Competitors": {
+    "Title": "Manténgase por delante de la competencia.",
+    "Subtitle": "Toma de decisiones inteligente",
+    "Description": "Con integraciones inteligentes que utilizan Zapier, Make y API personalizadas, automatice el seguimiento de clientes potenciales, la interacción con el cliente y la información comercial en tiempo real."
+  },
+  "Reach": {
+    "Title": "Integración y optimización de datos",
+    "Subtitle": "Amplíe su alcance.",
+    "Description": "Conecte miles de aplicaciones y plataformas para crear un ecosistema automatizado y eficiente para su negocio."
+  },
+  "SellGlobal": {
+    "Title": "Escalabilidad sin límites.",
+    "Subtitle": "Haga crecer su negocio a nivel global.",
+    "Description": "Nuestra automatización de IA y nuestros sitios web personalizados garantizan un escalamiento perfecto, ya sea que se trate de una startup o una empresa."
+  },
+  "Speed": {
+    "Title": "Velocidad",
+    "Subtitle": "Creado para usuarios avanzados.",
+    "Description": "Automatice flujos de trabajo complejos con facilidad utilizando nuestras soluciones intuitivas sin código y con poco código, ahorrando horas de trabajo manual cada semana."
+  }
 }

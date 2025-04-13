@@ -1,14 +1,94 @@
 {
-  "HomeTitle": "Business Automation and AI Integration",
-  "HomeDescription": "Streamline your business with AI, automation, and digital transformation strategies tailored for growth.",
-  "HomeCta": "Discover Our Services",
-
-  "AboutTitle": "About SupruGC",
-  "AboutDescription": "We are a digital transformation agency helping businesses grow through automation, AI, and smart integrations.",
-
-  "PricingTitle": "Pricing Plans",
-  "PricingDescription": "Choose the right plan for your business needs. From startups to enterprises, we've got you covered.",
-
-  "BlogTitle": "Insights & Automation Tips",
-  "BlogDescription": "Explore articles, tutorials, and case studies on AI, automation, and digital transformation."
+  "Header": {
+    "QuickQuote": "Please click here for a quick quote",
+    "Login": "Login",
+    "JoinUs": "Join us",
+    "Blog": "Blog",
+    "Pricing": "Pricing",
+    "Company": "Company",
+    "Product": "Product",
+    "Support": "Support"
+  },
+  "Hero": {
+    "HeroCTA": "Ready to dive in?",
+    "StartFreeTrial": "Start your free trial today.",
+    "GetStarted": "Get started",
+    "SeePricing": "See pricing",
+    "HeroTitle": "Business Automation and AI Integration",
+    "HeroDescription": "Streamline your business with AI, automation, and digital transformation strategies tailored for growth."
+  },
+  "Footer": {
+    "FooterCTA": "Ready to dive in?",
+    "Cheat": "Get the cheat codes for automating and get the best out of your team.",
+    "StartFreeTrial": "Start your free trial today.",
+    "GetStarted": "Get started",
+    "HelpCenter": "Help center",
+    "Careers": "Careers",
+    "Community": "Community",
+    "Contact": "Contact",
+    "LegalPrivacy": "Privacy policy",
+    "LegalTerms": "Terms of service",
+    "FAQ": "Frequently asked questions",
+    "YourQuestions": "Your questions answered.",
+    "CurrencyUSD": "USD",
+    "PricePerMonth": "per month",
+    "VPQuote": "VP of Sales, Monots",
+    "Pricing": "Pricing",
+    "Company": "Company",
+    "Product": "Product",
+    "Support": "Support",
+    "Analysis": "Analysis"
+  },
+  "About": {
+    "Mission": "At SupruGC, our mission is to empower modern businesses with seamless, intelligent, and scalable web solutions...",
+    "TeamBio": "SupruGC was founded by someone who’s been deep in the trenches of digital transformation...",
+    "About": "What started as a one-person mission is quickly evolving into something bigger...",
+    "WhyUs": "Whether you’re here for hosting, automation, or custom solutions...",
+    "ClientObsessed": "We’re obsessed with helping our clients succeed...",
+    "Discover": "Take a look at what we can do for you.",
+    "BuiltByOne": "Built by one, made for many.",
+    "TransformOrg": "We’re on a mission to transform revenue organizations..."
+  },
+  "Services": {
+    "WorkflowAutomation": "Automate complex workflows with ease using our intuitive no-code and low-code solutions...",
+    "ContentAutomation": "Automate content creation and social media engagement with AI-driven posts...",
+    "SmartChatbots": "Our smart chatbots and automated workflows analyze customer interactions in real time...",
+    "SmartSchedulingDetails": "Integrate AI-powered scheduling tools to automatically book and manage meetings...",
+    "OutreachPlatforms": "With Zapier, Make, and custom API integrations, automate outreach across multiple platforms.",
+    "IntegrateTrack": "With smart integrations using Zapier, Make, and custom APIs, automate lead tracking...",
+    "EfficientEcosystem": "Connect thousands of apps and platforms to create an efficient, automated ecosystem...",
+    "IncludedFeatures": "Integration & Data Optimization",
+    "IntelligentDecisions": "Intelligent decision-making",
+    "SeamlessIntegrations": "Seamless Integrations"
+  },
+  "Quotes": {
+    "QuoteHeadline": "Pricing that grows with your team size.",
+    "Testimonials": "Thanks to our AI automation and integrations, we’re discovering new business opportunities...",
+    "TheNumbers": "The Numbers"
+  },
+  "Insight": {
+    "Title": "AI-Powered Automation",
+    "Subtitle": "Eliminate repetitive tasks",
+    "Description": "Our AI-powered automation tools analyze workflows, detect inefficiencies, and optimize operations—giving you full visibility and control."
+  },
+  "Competitors": {
+    "Title": "Stay Ahead of the Competition.",
+    "Subtitle": "Intelligent decision-making",
+    "Description": "With smart integrations using Zapier, Make, and custom APIs, automate lead tracking, customer engagement, and business insights in real-time."
+  },
+  "Reach": {
+    "Title": "Integration & Data Optimization",
+    "Subtitle": "Expand Your Reach.",
+    "Description": "Connect thousands of apps and platforms to create an efficient, automated ecosystem for your business."
+  },
+  "SellGlobal": {
+    "Title": "Scalability Without Limits.",
+    "Subtitle": "Grow Your Business Globally.",
+    "Description": "Our AI automation and custom-built websites ensure seamless scaling—whether you’re a startup or an enterprise."
+  },
+  "Speed": {
+    "Title": "Speed",
+    "Subtitle": "Built for Power Users.",
+    "Description": "Automate complex workflows with ease using our intuitive no-code and low-code solutions—saving hours of manual work every week."
+  }
 }

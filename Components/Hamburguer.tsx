@@ -1,8 +1,10 @@
 import { Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
 import { Bars3Icon } from "@heroicons/react/16/solid";
 import { AnimatePresence, motion } from "framer-motion";
+import { useTranslations } from "next-intl";
 
 export default function Hamburguer() {
+  const t = useTranslations("Header");
   return (
     <div className=" flex md:hidden">
       <Menu>
@@ -27,7 +29,7 @@ export default function Hamburguer() {
                       className="block data-[focus]:bg-[#284F77] p-3 rounded"
                       href="/pricing"
                     >
-                      Pricing
+                      {t("Pricing")}
                     </a>
                   </MenuItem>
                   <MenuItem>
@@ -35,7 +37,7 @@ export default function Hamburguer() {
                       className="block data-[focus]:bg-[#284F77] p-3 rounded"
                       href="/company"
                     >
-                      Company
+                      {t("Company")}
                     </a>
                   </MenuItem>
                   {/* <MenuItem>

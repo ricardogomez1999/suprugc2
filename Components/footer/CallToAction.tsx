@@ -1,20 +1,22 @@
+import { useTranslations } from "next-intl";
 import React from "react";
 
 export default function CallToAction() {
+  const t = useTranslations("Footer");
   return (
     <div className="relative pt-20 pb-16 text-center sm:py-24">
       <hgroup>
         <h2 className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400">
-          Get started
+          {t("FooterCTA")}
         </h2>
         <p className="mt-6 text-3xl font-medium tracking-tight text-gray-950 sm:text-5xl">
-          Ready to dive in?
+          {t("GetStarted")}
           <br />
-          Start your free trial today.
+          {t("StartFreeTrial")}
         </p>
       </hgroup>
       <p className="mx-auto mt-6 max-w-xs text-sm/6 text-gray-500">
-        Get the cheat codes for automating and get the best out of your team.
+        {t("Cheat")}
       </p>
       <div className="mt-6">
         <a
