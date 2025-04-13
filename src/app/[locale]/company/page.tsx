@@ -1,7 +1,7 @@
-import SectionHero from "@/Components/company/SectionHero";
-import Team from "@/Components/company/Team";
-import Title from "@/Components/company/Title";
-import Header from "@/Components/Header";
+import SectionHero from "@/src/Components/company/SectionHero";
+import Team from "@/src/Components/company/Team";
+import Title from "@/src/Components/company/Title";
+import Header from "@/src/Components/Header";
 
 import React from "react";
 

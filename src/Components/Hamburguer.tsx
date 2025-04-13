@@ -2,6 +2,7 @@ import { Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
 import { Bars3Icon } from "@heroicons/react/16/solid";
 import { AnimatePresence, motion } from "framer-motion";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 export default function Hamburguer() {
   const t = useTranslations("Header");
@@ -25,20 +26,20 @@ export default function Hamburguer() {
                   className=" data-[closed]:scale-95 data-[closed]:opacity-0 gap-5  p-3 text-white justify-between font-bold bg-[#284F77]/70 w-fit m-auto rounded-lg"
                 >
                   <MenuItem>
-                    <a
+                    <Link
                       className="block data-[focus]:bg-[#284F77] p-3 rounded"
                       href="/pricing"
                     >
                       {t("Pricing")}
-                    </a>
+                    </Link>
                   </MenuItem>
                   <MenuItem>
-                    <a
+                    <Link
                       className="block data-[focus]:bg-[#284F77] p-3 rounded"
                       href="/company"
                     >
                       {t("Company")}
-                    </a>
+                    </Link>
                   </MenuItem>
                   {/* <MenuItem>
                     <a

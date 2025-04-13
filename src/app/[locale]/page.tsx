@@ -2,12 +2,12 @@
 
 import { useTranslations } from "next-intl";
 import Head from "next/head";
-import Header from "@/Components/Header";
-import Hero from "@/Components/Hero";
-import BrandsBanner from "@/Components/home/BrandsBanner";
-import OurOffer from "@/Components/home/OurOffer";
-import Outreach from "@/Components/home/Outreach/Outreach";
-import Portfolio from "@/Components/home/Portfolio/Portfolio";
+import Header from "@/src/Components/Header";
+import Hero from "@/src/Components/Hero";
+import BrandsBanner from "@/src/Components/home/BrandsBanner";
+import OurOffer from "@/src/Components/home/OurOffer";
+import Outreach from "@/src/Components/home/Outreach/Outreach";
+import Portfolio from "@/src/Components/home/Portfolio/Portfolio";
 
 export default function Home() {
   const t = useTranslations("Hero");

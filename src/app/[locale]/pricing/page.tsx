@@ -1,9 +1,9 @@
-import Header from "@/Components/Header";
-import Faqs from "@/Components/pricing/Faqs";
+import Header from "@/src/Components/Header";
+import Faqs from "@/src/Components/pricing/Faqs";
 import type { Metadata } from "next";
-import PricingBanner from "@/Components/pricing/PricingBanner";
-import PricingCards from "@/Components/pricing/PricingCards";
-import Title from "@/Components/pricing/Title";
+import PricingBanner from "@/src/Components/pricing/PricingBanner";
+import PricingCards from "@/src/Components/pricing/PricingCards";
+import Title from "@/src/Components/pricing/Title";
 import React from "react";
 
 export const metadata: Metadata = {

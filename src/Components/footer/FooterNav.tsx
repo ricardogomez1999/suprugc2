@@ -1,5 +1,6 @@
 import React from "react";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 export default function FooterNav() {
   const t = useTranslations("Footer");
@@ -12,28 +13,28 @@ export default function FooterNav() {
         </h3>
         <ul className="mt-6 space-y-4 text-sm/6">
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="/pricing"
             >
               {t("Pricing")}
-            </a>
+            </Link>
           </li>
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="#"
             >
               {t("Analysis")}
-            </a>
+            </Link>
           </li>
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="#"
             >
               API
-            </a>
+            </Link>
           </li>
         </ul>
       </div>
@@ -44,28 +45,28 @@ export default function FooterNav() {
         </h3>
         <ul className="mt-6 space-y-4 text-sm/6">
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="#"
             >
               {t("Careers")}
-            </a>
+            </Link>
           </li>
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="/blog"
             >
               Blog
-            </a>
+            </Link>
           </li>
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="/company"
             >
               {t("Company")}
-            </a>
+            </Link>
           </li>
         </ul>
       </div>
@@ -76,20 +77,20 @@ export default function FooterNav() {
         </h3>
         <ul className="mt-6 space-y-4 text-sm/6">
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="#"
             >
               {t("HelpCenter")}
-            </a>
+            </Link>
           </li>
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="#"
             >
               {t("Community")}
-            </a>
+            </Link>
           </li>
         </ul>
       </div>
@@ -100,20 +101,20 @@ export default function FooterNav() {
         </h3>
         <ul className="mt-6 space-y-4 text-sm/6">
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="#"
             >
               {t("LegalTerms")}
-            </a>
+            </Link>
           </li>
           <li>
-            <a
+            <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
               href="#"
             >
               {t("LegalPrivacy")}
-            </a>
+            </Link>
           </li>
         </ul>
       </div>
