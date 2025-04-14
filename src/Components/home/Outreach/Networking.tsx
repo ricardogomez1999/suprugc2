@@ -1,6 +1,8 @@
+import { useTranslations } from "next-intl";
 import React from "react";
 
 export default function Networking() {
+  const t = useTranslations("Networking");
   return (
     <div
       data-dark="true"
@@ -15,15 +17,13 @@ export default function Networking() {
           data-dark="true"
           className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400"
         >
-          Networking
+          {t("Title")}
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Respond at the Speed of AI.
+          {t("Subtitle")}
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          Our smart chatbots and automated workflows analyze customer
-          interactions in real time, ensuring fast, accurate responses and
-          improved engagement.
+          {t("Description")}
         </p>
       </div>
     </div>

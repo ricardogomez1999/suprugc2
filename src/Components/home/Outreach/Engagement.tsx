@@ -1,7 +1,9 @@
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 import React from "react";
 
 export default function Engagement() {
+  const t = useTranslations("Engagement");
   return (
     <div
       data-dark="true"
@@ -24,14 +26,13 @@ export default function Engagement() {
           data-dark="true"
           className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400"
         >
-          Build Your Brand & Authority
+          {t("Title")}
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Position Yourself as an Industry Leader.
+          {t("Subtitle")}
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          Automate content creation and social media engagement with AI-driven
-          posts, helping you establish credibility and grow your audience.
+          {t("Description")}
         </p>
       </div>
     </div>

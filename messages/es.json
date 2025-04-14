@@ -62,19 +62,6 @@
     "IntelligentDecisions": "Toma de decisiones inteligentes",
     "SeamlessIntegrations": "Integraciones sin fricciones"
   },
-  "Callouts": {
-    "LeadIndustry": "Posiciónate como un líder de la industria.",
-    "ExpandReach": "Expande tu alcance.",
-    "BuildAuthority": "Construye tu marca y autoridad",
-    "EliminateTasks": "Elimina tareas repetitivas",
-    "GrowBusiness": "Haz crecer tu negocio globalmente.",
-    "ScalableWeb": "Escalabilidad sin límites.",
-    "StayAhead": "Mantente por delante de la competencia.",
-    "ResponseSpeed": "Responde a la velocidad de la IA.",
-    "UseAI": "Aprovecha la IA para automatizar tu trabajo diario.",
-    "Slogan": "Ayudando a las empresas a generar ingresos.",
-    "OurServices": "Nuestros servicios"
-  },
   "Quotes": {
     "QuoteHeadline": "Precios que crecen con el tamaño de tu equipo.",
     "Testimonials": "Gracias a nuestra automatización con IA estamos descubriendo oportunidades de negocio...",
@@ -104,5 +91,43 @@
     "Title": "Velocidad",
     "Subtitle": "Creado para usuarios avanzados.",
     "Description": "Automatice flujos de trabajo complejos con facilidad utilizando nuestras soluciones intuitivas sin código y con poco código, ahorrando horas de trabajo manual cada semana."
+  },
+  "Portfolio": {
+    "Title": "Nuestros servicios",
+    "Subtitle": "Simplificando tu vida"
+  },
+  "Engagement": {
+    "Title": "Construye tu marca y autoridad",
+    "Subtitle": "Posiciónate como un líder en la industria.",
+    "Description": "Automatiza la creación de contenido y el engagement en redes sociales con publicaciones impulsadas por IA, ayudándote a establecer credibilidad y hacer crecer tu audiencia."
+  },
+  "Integration": {
+    "Title": "Integraciones sin fricción",
+    "Subtitle": "Conéctate con tus clientes en todas partes.",
+    "Description": "Con Zapier, Make e integraciones API personalizadas, automatiza tu alcance a través de múltiples plataformas."
+  },
+  "Meeting": {
+    "Title": "Agendamiento y reuniones inteligentes",
+    "Subtitle": "Reservas de citas sin esfuerzo.",
+    "Description": "Integra herramientas de programación con IA para agendar y gestionar reuniones automáticamente, ahorrando tiempo y evitando la coordinación innecesaria."
+  },
+  "Networking": {
+    "Title": "Redes inteligentes",
+    "Subtitle": "Responde a la velocidad de la IA.",
+    "Description": "Nuestros chatbots inteligentes y flujos de trabajo automatizados analizan las interacciones con clientes en tiempo real, asegurando respuestas rápidas, precisas y una mejor experiencia."
+  },
+  "Outreach": {
+    "Title": "Alcance y compromiso",
+    "Subtitle": "Automatiza el engagement con tus clientes fácilmente."
+  },
+  "Card": {
+    "Coin": "USD",
+    "Sub": "Por mes",
+    "Button": "Comienza una prueba gratuita",
+    "Start": "Comienza a vender con:"
+  },
+  "Faqs": {
+    "Subtitle": "Tus preguntas resueltas",
+    "Title": "Preguntas frecuentes"
   }
 }

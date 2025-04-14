@@ -1,7 +1,9 @@
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 import React from "react";
 
 export default function Integration() {
+  const t = useTranslations("Integration");
   return (
     <div
       data-dark="true"
@@ -19,14 +21,13 @@ export default function Integration() {
           dark-data="true"
           className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400"
         >
-          Seamless Integrations
+          {t("Title")}
         </h3>
         <p className="mt-1 text-2xl/8 font-medium tracking-tight text-gray-950 group-data-dark:text-white">
-          Connect with your Customers Everywhere.
+          {t("Subtitle")}
         </p>
         <p className="mt-2 max-w-[600px] text-sm/6 text-gray-600 group-data-dark:text-gray-400">
-          With Zapier, Make, and custom API integrations, automate outreach
-          across multiple platforms.
+          {t("Description")}
         </p>
       </div>
     </div>

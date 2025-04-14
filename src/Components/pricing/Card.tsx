@@ -1,4 +1,5 @@
 import { CardType } from "@/src/Types";
+import { useTranslations } from "next-intl";
 import React from "react";
 
 type cardProps = {
@@ -7,6 +8,7 @@ type cardProps = {
 };
 
 export default function Card({ card }: cardProps) {
+  const t = useTranslations("Card");
   return (
     <div className="-m-2 grid grid-cols-1 rounded-4xl ring-1 shadow-[inset_0_0_2px_1px_#ffffff4d] ring-black/5 max-lg:mx-auto max-lg:w-full max-lg:max-w-md">
       <div className="grid grid-cols-1 rounded-4xl p-2 shadow-md shadow-black/5">
@@ -20,8 +22,8 @@ export default function Card({ card }: cardProps) {
               ${card.price}
             </div>
             <div className="text-sm/5 text-gray-950/75">
-              <p>USD</p>
-              <p>per month</p>
+              <p>{t("Coin")}</p>
+              <p>{t("Sub")}</p>
             </div>
           </div>
           <div className="mt-8">
@@ -30,12 +32,12 @@ export default function Card({ card }: cardProps) {
               data-headlessui-state=""
               href="#"
             >
-              Start a free trial
+              {t("Button")}
             </a>
           </div>
           <div className="mt-8">
             <h3 className="text-sm/6 font-medium text-gray-950">
-              Start selling with:
+              {t("Start")}
             </h3>
             <ul className="mt-3 space-y-3">
               <li

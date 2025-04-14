@@ -90,5 +90,43 @@
     "Title": "Speed",
     "Subtitle": "Built for Power Users.",
     "Description": "Automate complex workflows with ease using our intuitive no-code and low-code solutions—saving hours of manual work every week."
+  },
+  "Portfolio": {
+    "Title": "Nuestros servicios",
+    "Subtitle": "Simplificando tu vida"
+  },
+  "Engagement": {
+    "Title": "Build Your Brand & Authority",
+    "Subtitle": "Position Yourself as an Industry Leader.",
+    "Description": "Automate content creation and social media engagement with AI-driven posts, helping you establish credibility and grow your audience."
+  },
+  "Integration": {
+    "Title": "Seamless Integrations",
+    "Subtitle": "Connect with your Customers Everywhere.",
+    "Description": "With Zapier, Make, and custom API integrations, automate outreach across multiple platforms."
+  },
+  "Meeting": {
+    "Title": "Smart Scheduling & Meetings",
+    "Subtitle": "Effortless Appointment Booking.",
+    "Description": "Integrate AI-powered scheduling tools to automatically book and manage meetings—saving time and eliminating back-and-forth coordination."
+  },
+  "Networking": {
+    "Title": "Networking",
+    "Subtitle": "Respond at the Speed of AI.",
+    "Description": "Our smart chatbots and automated workflows analyze customer interactions in real time, ensuring fast, accurate responses and improved engagement."
+  },
+  "Outreach": {
+    "Title": "Outreach & Engagement",
+    "Subtitle": "Automated Customer Engagement Made Easy."
+  },
+  "Card": {
+    "Coin": "USD",
+    "Sub": "Per month",
+    "Button": "Start a free trial",
+    "Start": "Start selling with:"
+  },
+  "Faqs": {
+    "Subtitle": "Your questions answered",
+    "Title": "Frecuently asked questions"
   }
 }
