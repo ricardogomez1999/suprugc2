@@ -37,7 +37,8 @@
     "Company": "Company",
     "Product": "Product",
     "Support": "Support",
-    "Analysis": "Analysis"
+    "Analysis": "Analysis",
+    "Button": "Start now"
   },
   "About": {
     "Mission": "At SupruGC, our mission is to empower modern businesses with seamless, intelligent, and scalable web solutions...",
@@ -128,5 +129,31 @@
   "Faqs": {
     "Subtitle": "Your questions answered",
     "Title": "Frecuently asked questions"
+  },
+  "PricingBanner": {
+    "Text": "Thanks to our AI automation and integrations, we’re discovering new business opportunities that would have been impossible to find manually.",
+    "Name": "Roberto Moreno",
+    "Position": "VP of Sales, Monots"
+  },
+  "TitleCompany": {
+    "Title": "Helping companies generate revenue.",
+    "Subtitle": "We’re on a mission to transform revenue organizations by harnessing vast amounts of illegally acquired customer data."
+  },
+  "OurMission": {
+    "Text1": "At SupruGC, our mission is to empower modern businesses with seamless,intelligent, and scalable web solutions. From infrastructure to automation, we’re building tools that simplify complexity—so you can focus on growing what matters most.",
+    "Text2": "We’re obsessed with helping our clients succeed. That means understanding your digital goals, identifying the right solutions, and staying with you as you evolve. Your growth is our priority—and our platform is built to grow with you."
+  },
+
+  "Team": {
+    "Heading": "Meet the team",
+    "Title": "Built by one, made for many.",
+    "Description": "SupruGC was founded by someone who’s been deep in the trenches of digital transformation—designing web infrastructure, automating workflows, building tools, and solving real-world problems with smart, scalable solutions.",
+    "About": "What started as a one-person mission is quickly evolving into something bigger. SupruGC is growing into a collective of builders, thinkers, and problem-solvers who believe in a more intelligent and accessible web. We’re building the kind of company we’d want to work with—transparent, reliable, and relentlessly focused on delivering real value.",
+    "Why": "Whether you’re here for hosting, automation, or custom solutions, know this: you’re not just hiring a service. You’re partnering with a growing team committed to helping your business thrive.",
+    "Button": "Join us"
+  },
+  "Language": {
+    "English": "English",
+    "Spanish": "Spanish"
   }
 }

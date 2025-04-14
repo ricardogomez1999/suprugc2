@@ -37,7 +37,8 @@
     "Company": "Nosotros",
     "Product": "Producto",
     "Support": "Soporte",
-    "Analysis": "Analisis"
+    "Analysis": "Analisis",
+    "Button": "Empieza ahora"
   },
   "About": {
     "Mission": "En SupruGC, nuestra misión es empoderar a las empresas modernas con soluciones web inteligentes, escalables y sin fricciones...",
@@ -129,5 +130,31 @@
   "Faqs": {
     "Subtitle": "Tus preguntas resueltas",
     "Title": "Preguntas frecuentes"
+  },
+  "PricingBanner": {
+    "Text": "Gracias a nuestra automatización e integraciones de IA, estamos descubriendo nuevas oportunidades de negocio que habrían sido imposibles de encontrar manualmente.",
+    "Name": "Roberto Moreno",
+    "Position": "VP of Sales, Monots"
+  },
+  "TitleCompany": {
+    "Title": "Ayudando a las empresas a generar ingresos.",
+    "Subtitle": "Tenemos la misión de transformar las organizaciones de ingresos aprovechando grandes cantidades de datos de clientes adquiridos ilegalmente."
+  },
+  "OurMission": {
+    "Text1": "En SupruGC, nuestra misión es empoderar a las empresas modernas con soluciones web fluidas, inteligentes y escalables. Desde la infraestructura hasta la automatización, desarrollamos herramientas que simplifican la complejidad, para que usted pueda centrarse en el crecimiento de lo que más importa.",
+    "Text2": "Nos apasiona ayudar a nuestros clientes a alcanzar el éxito. Esto significa comprender sus objetivos digitales, identificar las soluciones adecuadas y acompañarlos en su evolución. Su crecimiento es nuestra prioridad, y nuestra plataforma está diseñada para crecer con usted."
+  },
+
+  "Team": {
+    "Heading": "Conoce al equipo",
+    "Title": "Creado por uno, hecho para muchos.",
+    "Description": "SupruGC fue fundado por alguien con amplia experiencia en transformación digital—diseñando infraestructura web, automatizando flujos de trabajo, creando herramientas y resolviendo problemas reales con soluciones inteligentes y escalables.",
+    "About": "Lo que comenzó como una misión personal rápidamente está evolucionando en algo más grande. SupruGC está creciendo como una comunidad de constructores, pensadores y solucionadores de problemas que creen en una web más inteligente y accesible. Estamos construyendo el tipo de empresa con la que nos gustaría trabajar: transparente, confiable y enfocada en aportar verdadero valor.",
+    "Why": "Ya sea que estés aquí por hosting, automatización o soluciones personalizadas, ten esto claro: no solo estás contratando un servicio, estás colaborando con un equipo comprometido con el crecimiento de tu negocio.",
+    "Button": "Únete a nosotros"
+  },
+  "Language": {
+    "English": "Inglés",
+    "Spanish": "Español"
   }
 }

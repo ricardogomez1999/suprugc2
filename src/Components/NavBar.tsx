@@ -1,11 +1,13 @@
+"use client";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 import React from "react";
+import LanguageSwitcher from "./LenguageSwitcher";
 
 export default function NavBar() {
   const t = useTranslations("Header");
   return (
-    <nav className="relative  lg:flex hidden">
+    <nav className="relative  lg:flex hidden items-center">
       <div className=" relative flex group/item">
         <Link
           href="/pricing"
@@ -22,6 +24,7 @@ export default function NavBar() {
           {t("Company")}
         </Link>
       </div>
+      <LanguageSwitcher />
       {/* <div className=" relative flex group/item">
         <Link
           href="/blog"

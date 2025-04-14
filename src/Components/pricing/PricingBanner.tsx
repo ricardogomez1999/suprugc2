@@ -1,7 +1,9 @@
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 import React from "react";
 
 export default function PricingBanner() {
+  const t = useTranslations("PricingBanner");
   return (
     <div className="mx-2 my-24 rounded-4xl bg-gray-900 bg-[url(/dot-texture.svg)] pt-72 pb-24 lg:pt-36">
       <div className="px-6 lg:px-8">
@@ -26,18 +28,16 @@ export default function PricingBanner() {
               <figure className="mx-auto flex max-w-xl flex-col gap-16 max-lg:text-center">
                 <blockquote>
                   <p className="relative text-3xl tracking-tight text-white before:absolute before:-translate-x-full before:content-['“'] after:absolute after:content-['”'] lg:text-4xl">
-                    Thanks to our AI automation and integrations, we’re
-                    discovering new business opportunities that would have been
-                    impossible to find manually.
+                    {t("Text")}
                   </p>
                 </blockquote>
                 <figcaption className="mt-auto">
                   <p className="text-sm/6 font-medium text-white">
-                    Roberto Moreno
+                    {t("Name")}
                   </p>
                   <p className="text-sm/6 font-medium">
                     <span className="bg-linear-to-r from-[#fff1be] from-28% via-[#ee87cb] via-70% to-[#b060ff] bg-clip-text text-transparent">
-                      VP of Sales, Monots
+                      {t("Position")}
                     </span>
                   </p>
                 </figcaption>

@@ -24,7 +24,7 @@ export default function CallToAction() {
           data-headlessui-state=""
           href="#"
         >
-          Get started
+          {t("Button")}
         </a>
       </div>
     </div>
