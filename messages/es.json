@@ -156,5 +156,9 @@
   "Language": {
     "English": "Inglés",
     "Spanish": "Español"
+  },
+  "Pricing": {
+    "Title": "Precios que aumentan según el tamaño de tu equipo.",
+    "Subtitle": "Ya seas una startup o una empresa en expansión, SupruGC ofrece precios flexibles que se adaptan a tus necesidades. Desde el alojamiento hasta la automatización, te ayudamos a construir, lanzar y escalar de forma más inteligente, sin sobrecargas."
   }
 }

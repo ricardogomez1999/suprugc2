@@ -155,5 +155,9 @@
   "Language": {
     "English": "English",
     "Spanish": "Spanish"
+  },
+  "Pricing": {
+    "Title": "Pricing that grows with your team size.",
+    "Subtitle": "Whether you’re a startup or scaling enterprise, SupruGC offers flexible pricing that grows with your needs. From hosting to automation, we help you build, launch, and scale smarter—without the bloat."
   }
 }
