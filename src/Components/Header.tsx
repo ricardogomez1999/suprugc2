@@ -12,9 +12,9 @@ export default function Header() {
       <div>
         <div className="relative flex justify-between group/row isolate pt-[calc(--spacing(2)+1px)] last:pb-[calc(--spacing(2)+1px)] items-center">
           <Separator />
-          <div className="relative flex gap-6">
+          <div className="relative flex gap-6 items-center">
             <Logo />
-            <div className="relative hidden items-center py-3 lg:flex">
+            <div className="relative items-center py-3 md:flex">
               <BookAppointment />
             </div>
           </div>

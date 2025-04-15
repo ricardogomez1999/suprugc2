@@ -12,9 +12,10 @@ export default function BookAppointment() {
       {/* Trigger Button */}
       <button
         onClick={() => setIsOpen(true)}
-        className="flex items-center gap-2 py-2 px-3 bg-[#284F77] text-sm text-white rounded-lg hover:bg-blue-950 transition"
+        className="flex items-center gap-2 py-2 px-3 md:bg-[#284F77] text-sm text-white rounded-lg hover:bg-blue-950 transition"
       >
-        {t("QuickQuote")}
+        <p className=" hidden md:block">{t("QuickQuote")}</p>
+
         <Image
           src={"/googleCalendar.svg"}
           width={20}
