@@ -3,7 +3,6 @@ import { Bars3Icon } from "@heroicons/react/16/solid";
 import { AnimatePresence, motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
-import LanguageSwitcher from "./LenguageSwitcher";
 
 export default function Hamburguer() {
   const t = useTranslations("Header");

@@ -3,12 +3,10 @@ import Separator from "./Separator";
 import Logo from "./Logo";
 import NavBar from "./NavBar";
 import Hamburguer from "./Hamburguer";
-import { useTranslations } from "next-intl";
 import BookAppointment from "./BookAppointment";
 import LanguageSwitcher from "./LenguageSwitcher";
 
 export default function Header() {
-  const t = useTranslations("Header");
   return (
     <header className=" pt-12 sm:pt-16">
       <div>
