@@ -8,6 +8,7 @@ import BrandsBanner from "@/src/Components/home/BrandsBanner";
 import OurOffer from "@/src/Components/home/OurOffer";
 import Outreach from "@/src/Components/home/Outreach/Outreach";
 import Portfolio from "@/src/Components/home/Portfolio/Portfolio";
+import Contact from "@/src/Components/Contact";
 
 export default function Home() {
   const t = useTranslations("Hero");
@@ -36,6 +37,7 @@ export default function Home() {
             <Portfolio />
           </div>
           <Outreach />
+          <Contact />
         </main>
       </div>
     </>

@@ -14,7 +14,7 @@ export default function Hero() {
       </p>
       <div className="mt-12 flex flex-col gap-x-6 gap-y-4 sm:flex-row">
         <Link
-          href="/contact"
+          href="/pricing"
           className="inline-flex items-center justify-center px-4 py-[calc(--spacing(2)-1px)] rounded-full border border-transparent bg-gray-950 shadow-md text-base font-medium whitespace-nowrap text-white data-disabled:bg-gray-950 data-disabled:opacity-40 data-hover:bg-gray-800"
         >
           {t("GetStarted")}
