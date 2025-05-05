@@ -12,7 +12,12 @@ export default function Integration() {
       <div className="relative h-80 shrink-0">
         <div aria-hidden="true" className="relative h-full overflow-hidden">
           <div className="absolute inset-0 top-8 z-10 flex items-center justify-center">
-            <Image src={"/integration.png"} alt="integration" fill />
+            <Image
+              src={"/integration.png"}
+              alt="integration"
+              width={300}
+              height={300}
+            />
           </div>
         </div>
       </div>

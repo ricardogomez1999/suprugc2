@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 import React from "react";
 
 export default function CallToAction() {
@@ -19,13 +20,13 @@ export default function CallToAction() {
         {t("Cheat")}
       </p>
       <div className="mt-6">
-        <a
+        <Link
           className="w-full sm:w-auto inline-flex items-center justify-center px-4 py-[calc(--spacing(2)-1px)] rounded-full border border-transparent bg-gray-950 shadow-md text-base font-medium whitespace-nowrap text-white data-disabled:bg-gray-950 data-disabled:opacity-40 data-hover:bg-gray-800"
           data-headlessui-state=""
-          href="#"
+          href="/pricing"
         >
           {t("Button")}
-        </a>
+        </Link>
       </div>
     </div>
   );

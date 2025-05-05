@@ -79,7 +79,7 @@ export default function FooterNav() {
           <li>
             <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
-              href="#"
+              href="/company"
             >
               {t("HelpCenter")}
             </Link>
@@ -87,7 +87,7 @@ export default function FooterNav() {
           <li>
             <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
-              href="#"
+              href="/company"
             >
               {t("Community")}
             </Link>
@@ -103,7 +103,7 @@ export default function FooterNav() {
           <li>
             <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
-              href="#"
+              href="/company"
             >
               {t("LegalTerms")}
             </Link>
@@ -111,7 +111,7 @@ export default function FooterNav() {
           <li>
             <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
-              href="#"
+              href="/company"
             >
               {t("LegalPrivacy")}
             </Link>
