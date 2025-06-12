@@ -71,7 +71,7 @@ export default function FooterLinks() {
           </svg>
           <Link
             target="_blank"
-            aria-label="Visit us on Facebook"
+            aria-label="Visit us on Instagram"
             className="text-gray-950 data-hover:text-gray-950/75"
             data-headlessui-state=""
             href="https://www.instagram.com/suprugc?igsh=YTJwZGJueWw1c3l2&utm_source=qr"
