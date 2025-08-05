@@ -6,7 +6,7 @@ export default function ContactForm() {
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
         <div>
           <label className="block mb-2 text-sm font-medium text-gray-900">
-            First name
+            Nombre
           </label>
           <input
             type="text"
@@ -15,7 +15,7 @@ export default function ContactForm() {
         </div>
         <div>
           <label className="block mb-2 text-sm font-medium text-gray-900">
-            Last name
+            Apellido
           </label>
           <input
             type="text"
@@ -34,7 +34,7 @@ export default function ContactForm() {
       </div>
       <div>
         <label className="block mb-2 text-sm font-medium text-gray-900">
-          Phone number
+          Numero de telefono
         </label>
         <input
           type="tel"
@@ -43,7 +43,7 @@ export default function ContactForm() {
       </div>
       <div>
         <label className="block mb-2 text-sm font-medium text-gray-900">
-          Message
+          Mensaje
         </label>
         <textarea
           rows={4}
