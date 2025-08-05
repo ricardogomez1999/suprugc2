@@ -1,9 +1,7 @@
 import React from "react";
-import Insight from "./Insight";
-import Competitors from "./Competitors";
-import Speed from "./Speed";
-import Reach from "./Reach";
-import SellGlobal from "./SellGlobal";
+import WebDevelopment from "./WebDevelopment";
+import Automations from "./Automations";
+import Digitalization from "./Digitalization";
 import { useTranslations } from "next-intl";
 
 export default function Portfolio() {
@@ -17,12 +15,10 @@ export default function Portfolio() {
         <h3 className="mt-2 max-w-3xl text-4xl font-medium tracking-tighter text-pretty text-gray-950 data-dark:text-white sm:text-6xl">
           {t("Subtitle")}
         </h3>
-        <div className="mt-10 grid grid-cols-1 gap-4 sm:mt-16 lg:grid-cols-6 lg:grid-rows-2">
-          <Insight />
-          <Competitors />
-          <Speed />
-          <Reach />
-          <SellGlobal />
+        <div className="mt-10 grid grid-cols-1 gap-4 sm:mt-16 lg:grid-cols-3">
+          <WebDevelopment />
+          <Automations />
+          <Digitalization />
         </div>
       </div>
     </div>
