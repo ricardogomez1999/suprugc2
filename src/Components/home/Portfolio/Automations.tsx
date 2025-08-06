@@ -1,13 +1,17 @@
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 import React from "react";
 
-export default function Competitors() {
-  const t = useTranslations("Competitors");
+export default function Automations() {
+  const t = useTranslations("Automations");
   return (
-    <div className="lg:col-span-3 lg:rounded-tr-4xl group relative flex flex-col overflow-hidden rounded-lg bg-white ring-1 shadow-xs ring-black/5 data-dark:bg-gray-800 data-dark:ring-white/15">
+    <Link
+      href="/automations"
+      className="group relative flex flex-col overflow-hidden rounded-lg bg-white ring-1 shadow-xs ring-black/5 data-dark:bg-gray-800 data-dark:ring-white/15"
+    >
       <div className="relative h-80 shrink-0">
-        <div className="h-80 bg-[url(/competitors.png)] bg-cover bg-center bg-no-repeat"></div>
-        <div className="absolute inset-0  group-data-dark:from-gray-800 group-data-dark:from-[-25%]"></div>
+        <div className="h-80 bg-[url(/smart.png)] bg-cover bg-center bg-no-repeat"></div>
+        <div className="absolute inset-0 group-data-dark:from-gray-800 group-data-dark:from-[-25%]"></div>
       </div>
       <div className="relative p-10">
         <h3 className="font-mono text-xs/5 font-semibold tracking-widest text-gray-500 uppercase data-dark:text-gray-400">
@@ -20,6 +24,6 @@ export default function Competitors() {
           {t("Description")}
         </p>
       </div>
-    </div>
+    </Link>
   );
 }

@@ -68,31 +68,6 @@
     "Testimonials": "Gracias a nuestra automatización con IA estamos descubriendo oportunidades de negocio...",
     "TheNumbers": "Las cifras"
   },
-  "Insight": {
-    "Title": "Automatización impulsada por IA",
-    "Subtitle": "Elimina tareas repetitivas",
-    "Description": "Nuestras herramientas de automatización impulsadas por IA analizan los flujos de trabajo, detectan ineficiencias y optimizan las operaciones, brindándole visibilidad y control totales."
-  },
-  "Competitors": {
-    "Title": "Manténgase por delante de la competencia.",
-    "Subtitle": "Toma de decisiones inteligente",
-    "Description": "Con integraciones inteligentes que utilizan Zapier, Make y API personalizadas, automatice el seguimiento de clientes potenciales, la interacción con el cliente y la información comercial en tiempo real."
-  },
-  "Reach": {
-    "Title": "Integración y optimización de datos",
-    "Subtitle": "Amplíe su alcance.",
-    "Description": "Conecte miles de aplicaciones y plataformas para crear un ecosistema automatizado y eficiente para su negocio."
-  },
-  "SellGlobal": {
-    "Title": "Escalabilidad sin límites.",
-    "Subtitle": "Haga crecer su negocio a nivel global.",
-    "Description": "Nuestra automatización de IA y nuestros sitios web personalizados garantizan un escalamiento perfecto, ya sea que se trate de una startup o una empresa."
-  },
-  "Speed": {
-    "Title": "Velocidad",
-    "Subtitle": "Creado para usuarios avanzados.",
-    "Description": "Automatice flujos de trabajo complejos con facilidad utilizando nuestras soluciones intuitivas sin código y con poco código, ahorrando horas de trabajo manual cada semana."
-  },
   "Portfolio": {
     "Title": "Nuestros servicios",
     "Subtitle": "Simplificando tu vida"
@@ -144,7 +119,6 @@
     "Text1": "En SupruGC, nuestra misión es empoderar a las empresas modernas con soluciones web fluidas, inteligentes y escalables. Desde la infraestructura hasta la automatización, desarrollamos herramientas que simplifican la complejidad, para que usted pueda centrarse en el crecimiento de lo que más importa.",
     "Text2": "Nos apasiona ayudar a nuestros clientes a alcanzar el éxito. Esto significa comprender sus objetivos digitales, identificar las soluciones adecuadas y acompañarlos en su evolución. Su crecimiento es nuestra prioridad, y nuestra plataforma está diseñada para crecer con usted."
   },
-
   "Team": {
     "Heading": "Conoce al equipo",
     "Title": "Creado por uno, hecho para muchos.",
@@ -160,5 +134,44 @@
   "Pricing": {
     "Title": "Precios que aumentan según el tamaño de tu equipo.",
     "Subtitle": "Ya seas una startup o una empresa en expansión, SupruGC ofrece precios flexibles que se adaptan a tus necesidades. Desde el alojamiento hasta la automatización, te ayudamos a construir, lanzar y escalar de forma más inteligente, sin sobrecargas."
+  },
+  "WebDevelopment": {
+    "Title": "Desarrollo web",
+    "Subtitle": "Sitios personalizados para crecer.",
+    "Description": "Diseñamos y desarrollamos experiencias web modernas adaptadas a los objetivos de tu negocio, asegurando rendimiento, escalabilidad y facilidad de uso."
+  },
+  "Automations": {
+    "Title": "Automatizaciones",
+    "Subtitle": "Optimiza tus flujos de trabajo.",
+    "Description": "Desde tareas simples hasta procesos complejos, nuestras soluciones de automatización ahorran tiempo y reducen el esfuerzo manual en toda tu organización."
+  },
+  "Digitalization": {
+    "Title": "Digitalización",
+    "Subtitle": "Transforma procesos offline.",
+    "Description": "Digitaliza tus operaciones e integra tus herramientas para que los datos fluyan sin fricciones y tu equipo trabaje de forma más inteligente."
+  },
+  "WebDevelopmentPage": {
+    "Title": "Desarrollo web",
+    "Description": "Soluciones web personalizadas diseñadas para escalar y rendir.",
+    "Pricing": "Elige el paquete que se ajuste a tus necesidades.",
+    "LandingTitle": "Landing Page",
+    "LandingDescription": "Sitio de una sola página para mostrar tu producto o servicio.",
+    "LandingPrice": "$2,500 MXN",
+    "InfoTitle": "Página informativa",
+    "InfoDescription": "Sitio multipágina para información de la empresa o proyecto.",
+    "InfoPrice": "$5,000 - $15,000 MXN",
+    "WebAppTitle": "Aplicación web",
+    "WebAppDescription": "Aplicaciones web completas con funcionalidad avanzada.",
+    "WebAppPrice": "$50,000 - $75,000 MXN"
+  },
+  "AutomationsPage": {
+    "Title": "Automatizaciones",
+    "Description": "Optimiza tus flujos de trabajo con nuestros servicios de automatización.",
+    "Pricing": "Los paquetes comienzan desde $800."
+  },
+  "DigitalizationPage": {
+    "Title": "Digitalización",
+    "Description": "Digitaliza y conecta tus procesos offline.",
+    "Pricing": "Las consultas comienzan desde $600."
   }
 }
