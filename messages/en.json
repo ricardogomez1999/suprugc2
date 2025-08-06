@@ -4,10 +4,13 @@
     "Login": "Login",
     "JoinUs": "Join us",
     "Blog": "Blog",
-    "Pricing": "Pricing",
     "Company": "Company",
     "Product": "Product",
-    "Support": "Support"
+    "Support": "Support",
+    "Services": "Services",
+    "WebDevelopment": "Web Development",
+    "Automations": "Automations",
+    "Digitalization": "Digitalization"
   },
   "Hero": {
     "HeroCTA": "Ready to dive in?",

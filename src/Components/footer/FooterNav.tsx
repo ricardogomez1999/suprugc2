@@ -15,7 +15,7 @@ export default function FooterNav() {
           <li>
             <Link
               className="font-medium text-gray-950 data-hover:text-gray-950/75"
-              href="/pricing"
+              href="/automations"
             >
               {t("Pricing")}
             </Link>
