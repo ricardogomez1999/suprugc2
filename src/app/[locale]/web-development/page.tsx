@@ -23,6 +23,40 @@ export default function WebDevelopmentPage() {
         <p className="mt-4 max-w-3xl text-lg text-gray-600 data-dark:text-gray-400">
           {t("Pricing")}
         </p>
+        <div className="mt-10 grid grid-cols-1 gap-8 lg:grid-cols-3">
+          {[
+            {
+              title: t("LandingTitle"),
+              price: t("LandingPrice"),
+              description: t("LandingDescription"),
+            },
+            {
+              title: t("InfoTitle"),
+              price: t("InfoPrice"),
+              description: t("InfoDescription"),
+            },
+            {
+              title: t("WebAppTitle"),
+              price: t("WebAppPrice"),
+              description: t("WebAppDescription"),
+            },
+          ].map((card) => (
+            <div
+              key={card.title}
+              className="rounded-3xl bg-white p-8 ring-1 ring-black/5 shadow-md data-dark:bg-gray-800 data-dark:ring-white/15"
+            >
+              <h3 className="text-xl font-medium text-gray-950 data-dark:text-white">
+                {card.title}
+              </h3>
+              <p className="mt-2 text-3xl font-semibold text-gray-950 data-dark:text-white">
+                {card.price}
+              </p>
+              <p className="mt-2 text-sm text-gray-600 data-dark:text-gray-400">
+                {card.description}
+              </p>
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   );

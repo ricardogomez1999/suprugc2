@@ -152,7 +152,16 @@
   "WebDevelopmentPage": {
     "Title": "Web Development",
     "Description": "Custom web solutions built to scale and perform.",
-    "Pricing": "Projects start at $1,500."
+    "Pricing": "Choose the package that fits your needs.",
+    "LandingTitle": "Landing Page",
+    "LandingDescription": "Single page site to showcase your product or service.",
+    "LandingPrice": "$2,500 MXN",
+    "InfoTitle": "Information Page",
+    "InfoDescription": "Multi-page website for company or project information.",
+    "InfoPrice": "$5,000 - $15,000 MXN",
+    "WebAppTitle": "Web App",
+    "WebAppDescription": "Full-featured web application with complex functionality.",
+    "WebAppPrice": "$50,000 - $75,000 MXN"
   },
   "AutomationsPage": {
     "Title": "Automations",
