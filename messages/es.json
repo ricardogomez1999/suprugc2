@@ -4,10 +4,13 @@
     "Login": "Iniciar sesión",
     "JoinUs": "Únete a nosotros",
     "Blog": "Blog",
-    "Pricing": "Precios",
     "Company": "Nosotros",
     "Product": "Producto",
-    "Support": "Soporte"
+    "Support": "Soporte",
+    "Services": "Servicios",
+    "WebDevelopment": "Desarrollo web",
+    "Automations": "Automatizaciones",
+    "Digitalization": "Digitalización"
   },
   "Hero": {
     "HeroCTA": "¿Listo para comenzar?",

@@ -28,9 +28,25 @@ export default function Hamburguer() {
                   <MenuItem>
                     <Link
                       className="block data-[focus]:bg-[#284F77] p-3 rounded"
-                      href="/pricing"
+                      href="/web-development"
                     >
-                      {t("Pricing")}
+                      {t("WebDevelopment")}
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link
+                      className="block data-[focus]:bg-[#284F77] p-3 rounded"
+                      href="/automations"
+                    >
+                      {t("Automations")}
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link
+                      className="block data-[focus]:bg-[#284F77] p-3 rounded"
+                      href="/digitalization"
+                    >
+                      {t("Digitalization")}
                     </Link>
                   </MenuItem>
                   <MenuItem>
