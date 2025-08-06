@@ -148,5 +148,20 @@
     "Title": "Digitalization",
     "Subtitle": "Transform offline processes.",
     "Description": "Digitize your operations and integrate your tools so data flows smoothly and your team works smarter."
+  },
+  "WebDevelopmentPage": {
+    "Title": "Web Development",
+    "Description": "Custom web solutions built to scale and perform.",
+    "Pricing": "Projects start at $1,500."
+  },
+  "AutomationsPage": {
+    "Title": "Automations",
+    "Description": "Streamline your workflows with our automation services.",
+    "Pricing": "Packages start at $800."
+  },
+  "DigitalizationPage": {
+    "Title": "Digitalization",
+    "Description": "Digitize and connect your offline processes.",
+    "Pricing": "Consultations start at $600."
   }
 }
